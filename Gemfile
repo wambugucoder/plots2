@@ -14,7 +14,7 @@ gem 'figaro'
 gem 'friendly_id'
 gem 'gemoji'
 gem 'geocoder'
-gem 'georuby', '2.0'
+gem 'georuby', '2.5.2'
 gem "google-cloud-storage"
 gem 'grape'
 gem 'grape-entity'
